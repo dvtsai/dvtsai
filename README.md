@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvtsai
+- 👋 Hi, I’m Daphne Tsai
 - 👀 I’m interested in computer vision and autonomous vehicles
 - 🌱 I’m currently learning ROS and deep learning methods!
 - 💞️ I’m looking to collaborate on open source projects 
