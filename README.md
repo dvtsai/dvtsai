@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daphne Tsai
 - 👀 I’m interested in computer vision and autonomous vehicles
-- 🌱 I’m currently learning ROS and deep learning methods!
+- 🌱 I’m currently learning about sensor fusion architecture and V2X technology
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me: dvtsai@umich.edu
 
