@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daphne Tsai
-- 👀 I’m interested in perception in autonomous vehicles 
-- 🌱 I’m currently learning about sensor fusion and deep learning
-- 💞️ I’m looking to collaborate on open source projects 
+- 👀 I work on 3D perception for autonomous vehicles 
+- 🌱 I’m currently learning about autonomous control systems 
+- 💞️ I’m looking to discuss current perception challenges in the autonomous vehicle industry
 - 📫 How to reach me: dvtsai@umich.edu
 
 <!---
